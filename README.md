@@ -33,12 +33,12 @@ It is a social web app for World of Warcraft Classic live auction house statisti
 ## Preview (landing page only for now)
 ![](https://github.com/WojciakW/AuctioNation2-Front-end-NEW/blob/master/preview/main.png?raw=true)
 
-### AuctioNation project Key features:
+### AuctioNation 2 project Key features:
 - Automated 1-hour-cycle database handling:
   - fetching live World of Warcraft auctions data from official Blizzard API,
   - computing various statistics,
   - archiving data.
-- Possibility to view every single item data on every official realm, faction side, that is:
+- Possibility to view every single item data history on every official EU realm, faction side, that is:
   - auctions count,
   - lowest buyout,
   - mean buyout,
@@ -46,7 +46,5 @@ It is a social web app for World of Warcraft Classic live auction house statisti
 - Data presented in form of graphs,
 - User account base,
 - Support for comments on any item stats,
-- Various UX, like:
-    - one field for item OR auction search,
-    - dynamic page rewriting,
-    - user Observed items list,
+- User Observed Items list,
+- Whole app as a SPA
