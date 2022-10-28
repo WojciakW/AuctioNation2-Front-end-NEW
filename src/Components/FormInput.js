@@ -177,7 +177,7 @@ const realmListEU = [
 
 const FormInput = () => {
   const [input, setInput] = useState("");
-  console.log(input);
+
   return (
     <div className="input-container">
       <form>
